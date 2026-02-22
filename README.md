@@ -1,4 +1,4 @@
-# PitchForge AI 🚀
+# PitchForge AI 
 
 A premium AI-powered SaaS platform that generates high-converting, personalized proposals for freelancers on Upwork, Fiverr, LinkedIn, and other platforms in seconds.
 
